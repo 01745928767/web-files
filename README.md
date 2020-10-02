@@ -1,12 +1,12 @@
 # Creative-HTML5-template
 Some simple html template design. Anyone can customize this template who have basic knowledge.
-/* Theme Name: Name - Multipurpose HTML Template
+Theme Name: Name - Multipurpose HTML Template
 Author:Kazi Ryan Imam
 Support:ryanimam17@gmail.com
 Description: Creative HTML5 Template.
-Version: 1.0 */
+Version: 1.0 
 
-/* CSS Index
+CSS Index
 -----------------------------------
 1. Theme deafault css
 2. header
@@ -17,4 +17,5 @@ Version: 1.0 */
 7. team
 8. video-area
 9. counter
-10. footer */
+10. footer 
+
